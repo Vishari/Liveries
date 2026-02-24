@@ -42,11 +42,27 @@ livery = {
 	{"F16_bl50_Engine", ROUGHNESS_METALLIC ,"../JTF-13 93rd FS - Makos Textures/F16_bl50_Engine_RoughMet",false};
 
 
---Piloto
-	{"pilot_F16", 0, "../JTF-13 93rd FS - Makos Textures/pilot_F16", false};
-	{"pilot_F16_helmet", 0, "pilot_F16_helmet",false};
-	{"pilot_F16_helmet", ROUGHNESS_METALLIC, "../JTF-13 93rd FS - Makos Textures/pilot_F16_helmet_roughmet",false};
+--Pilot
+	{"Pilot_F16_Suit", DIFFUSE, "pilot_f16_suit", true};
+    {"Pilot_F16_Suit", NORMAL_MAP, "pilot_f16_suit_normal", true};
+    {"Pilot_F16_Suit", ROUGHNESS_METALLIC, "pilot_f16_suit_roughmet", true};
+    
+    {"pilot_F16_hmd_details", DIFFUSE, "pilot_f16_helmet_details", false};
+    {"pilot_F16_hmd_details", NORMAL_MAP, "pilot_f16_helmet_details_normal", true};
+    {"pilot_F16_hmd_details", ROUGHNESS_METALLIC, "pilot_f16_helmet_details_roughmet", true};
+        
+    {"pilot_F16_helmet", DIFFUSE, "Pilot_f16_Helmet_Gray_Ghost", false};
+    {"pilot_F16_helmet", NORMAL_MAP, "pilot_f16_helmet_gray_normal", true};
+    {"pilot_F16_helmet", ROUGHNESS_METALLIC, "pilot_f16_helmet_gray_roughmet", true};
+    
+    {"pilot_F16_helmet_HMD",  DIFFUSE, "pilot_f16_helmet_hmd", false};
+    {"pilot_F16_helmet_HMD",  NORMAL_MAP, "pilot_f16_helmet_hmd_normal", true};
+    {"pilot_F16_helmet_HMD",  ROUGHNESS_METALLIC, "pilot_f16_helmet_hmd_roughmet", true};
 
+    {"pilot_F16_visor_glass", 0, "Pilot_F16_Helmet_Visor_Glass", false};
+    {"pilot_F16_visor_glass", 1, "", true};
+    {"pilot_F16_visor_glass", ROUGHNESS_METALLIC, "", true};
+	
 	{"pilot_F16_patch", 0 ,"../JTF-13 93rd FS - Makos Textures/pilot_F16_patch",false};
 	{"pilot_F16_patch", ROUGHNESS_METALLIC ,"../JTF-13 93rd FS - Makos Textures/pilot_F16_patch_roughmet",false};
 	{"pilot_F16_patch", 1 ,"../JTF-13 93rd FS - Makos Textures/pilot_F16_patch_normal",false};

@@ -42,7 +42,7 @@ livery = {
 	{"F16_bl50_Engine", ROUGHNESS_METALLIC ,"F16_bl50_Engine_RoughMet",false};
 
 
---Piloto
+--Pilot
 	{"pilot_F16", 0, "pilot_F16", false};
 	{"pilot_F16_helmet", 0, "pilot_F16_helmet",false};
 	{"pilot_F16_helmet", ROUGHNESS_METALLIC, "pilot_F16_helmet_roughmet",false};
@@ -57,7 +57,7 @@ livery = {
 -- F16_bl50_Fuel_Tank_370Gal
 	{"F_16_Tank_370",	DIFFUSE			,	"fuel_tank_370gal_diff", false};
 
---Pilones
+--Pylons
 	{"F16_bl50_Wing_Pylon_1", 0 ,"F16_bl50_Wing_Pylon_1",false};
 	{"F16_bl50_Wing_Pylon_2", 0 ,"F16_bl50_Wing_Pylon_2",false};
 	
