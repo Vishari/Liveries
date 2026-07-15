@@ -1,16 +1,16 @@
 livery = {
 -- NOSE
-	{"F-15E_01",	0,	                "F-15e_E01_B_COMBAT",		true};
+	{"F-15E_01",	0,	                "F-15e_E01_C_Potato",		false};
 	{"F-15E_01",	1,	                "F-15e_E01_NRM",	true};
 	{"F-15E_01",	ROUGHNESS_METALLIC,	"F-15e_E01_RoughMet_COMBAT", true};
 	{"F-15E_01",	DECAL,	    		"JTF-13 90th FS Lt Col Mike - Potato",	false};
 	
 -- TOP
-	{"F-15E_02",	0,	                "F-15e_E02_COMBAT",			true};
+	{"F-15E_02",	0,	                "F-15e_E02_C_Potato",			false};
 	{"F-15E_02",	1,	                "F-15e_E02_NRM",	true};
 	{"F-15E_02",	ROUGHNESS_METALLIC,	"F-15e_E02_RoughMet_COMBAT", true};
 
-	{"F-15E_02SB",	0,	                "F-15e_E02_COMBAT",			true};
+	{"F-15E_02SB",	0,	                "F-15e_E02_C_Potato",			false};
 	{"F-15E_02SB",	1,	                "F-15e_E02_NRM",	true};
 	{"F-15E_02SB",	ROUGHNESS_METALLIC,	"F-15e_E02_RoughMet_COMBAT", true};
 	
@@ -62,7 +62,7 @@ livery = {
 	{"F-15E_05FB",	ROUGHNESS_METALLIC,	"F-15e_E05_C_RoughMet_COMBAT", true};
 
 -- TAIL
-	{"F-15E_06",	0,	                "F-15e_E06_A_COMBAT",		true};
+	{"F-15E_06",	0,	                "F15e_E06_C_Potato",		false};
 	{"F-15E_06",	1,	                "F-15e_E06_NRM",	true};
 	{"F-15E_06",	ROUGHNESS_METALLIC,	"F-15e_E06_A_RoughMet_COMBAT", true};
 	{"F-15E_06",	DECAL,	    		"JTF-13 90th FS Lt Col Mike - Potato",	false};
@@ -72,17 +72,17 @@ livery = {
 	{"F-15E_06LS",	ROUGHNESS_METALLIC,	"F-15e_E06_A_RoughMet_COMBAT", true};
 	{"F-15E_06LS",	DECAL,	    		"JTF-13 90th FS Lt Col Mike - Potato",	false};
 --RIGHT STAB	
-	{"F-15E_06RS",	0,	                "F-15e_E06_A_COMBAT",	true};
+	{"F-15E_06RS",	0,	                "F15e_E06_C_Potato",	false};
 	{"F-15E_06RS",	1,	                "F-15e_E06_NRM",	true};
 	{"F-15E_06RS",	ROUGHNESS_METALLIC,	"F-15e_E06_A_RoughMet_COMBAT", true};
 	{"F-15E_06RS",	DECAL,	    		"JTF-13 90th FS Lt Col Mike - Potato",	false};
 --LEFT RUDDER	
-	{"F-15E_06LR",	0,	                "F-15e_E06_A_COMBAT",	true};
+	{"F-15E_06LR",	0,	                "F15e_E06_C_Potato",	false};
 	{"F-15E_06LR",	1,	                "F-15e_E06_NRM",	true};
 	{"F-15E_06LR",	ROUGHNESS_METALLIC,	"F-15e_E06_A_RoughMet_COMBAT", true};
 	{"F-15E_06LR",	DECAL,	    		"JTF-13 90th FS Lt Col Mike - Potato",	false};
 --RIGHT RUDDER
-	{"F-15E_06RR",	0,	                "F-15e_E06_A_COMBAT",	true};
+	{"F-15E_06RR",	0,	                "F15e_E06_C_Potato",	false};
 	{"F-15E_06RR",	1,	                "F-15e_E06_NRM",	true};
 	{"F-15E_06RR",	ROUGHNESS_METALLIC,	"F-15e_E06_A_RoughMet_COMBAT", true};
 	{"F-15E_06RR",	DECAL,	    		"JTF-13 90th FS Lt Col Mike - Potato",	false};
