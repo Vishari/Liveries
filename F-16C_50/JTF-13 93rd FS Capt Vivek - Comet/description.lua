@@ -62,7 +62,7 @@ livery = {
     {"pilot_F16_visor_glass", 0, "Pilot_F16_Helmet_Visor_Glass", false};
     {"pilot_F16_visor_glass", 1, "", true};
     {"pilot_F16_visor_glass", ROUGHNESS_METALLIC, "", true};
-	
+
 	{"pilot_F16_patch", 0 ,"../JTF-13 93rd FS - Makos Textures/pilot_F16_patch",false};
 	{"pilot_F16_patch", ROUGHNESS_METALLIC ,"../JTF-13 93rd FS - Makos Textures/pilot_F16_patch_roughmet",false};
 	{"pilot_F16_patch", 1 ,"../JTF-13 93rd FS - Makos Textures/pilot_F16_patch_normal",false};
